@@ -1,9 +1,3 @@
-![Klepsan Fabrikası](https://klepsan.com/upload/kurumsal/kurumsal.jpg)
-
-<p align="center">
-  <img src="https://klepsan.com/images/logo.svg" width="160" />
-</p>
-
 <h1 align="center">🌟 Emre Afşinoğlu</h1>
 <h3 align="center">CEO • Klepsan Vana Ölçü Aletleri</h3>
 
@@ -21,7 +15,7 @@ Merhaba, ben Emre. Klepsan’da yenilikçi üretim teknolojileri, akıllı saya�
 ---
 
 ## 🎯 Misyon  
-Akıllı su sayaçları ve endüstriyel IoT çözümlerinde güvenilir, verimli ve uzun ömürlü teknolojiler geliştirmek.
+Akıllı su sayaçları ve endüstriyel IoT çözümlerinde güvenilir. verimli. uzun ömürlü teknolojiler geliştirmek.
 
 ---
 
@@ -31,16 +25,16 @@ Akıllı şehir uygulamaları ve sayaç teknolojileri alanında global ölçekte
 ---
 
 ## 🚀 Yönettiğim Stratejik Çalışmalar  
-Akıllı ön ödemeli su sayacı sistemleri, LoRaWAN ve Wireless M-Bus tabanlı uzaktan okuma projeleri.  
-Üretim otomasyonu ve robotik montaj hatlarının modernizasyonu, yeni Ar-Ge yatırımları ve PCB tasarımları.  
-Şirketimizin iki tesisten oluşan ve toplamda otuz bin metrekareye ulaşan modern üretim kampüsü.  
-Dijital dönüşüm, akıllı üretim altyapıları ve global büyüme stratejilerinin yönetimi.
+Akıllı ön ödemeli su sayacı sistemleri. LoRaWAN ve Wireless M-Bus tabanlı uzaktan okuma projeleri.  
+Üretim otomasyonu ve robotik montaj hatlarının modernizasyonu. yeni Ar-Ge yatırımları ve PCB tasarımları.  
+Şirketimizin iki tesisten oluşan. toplamda otuz bin metrekare üretim alanına sahip modern kampüsü.  
+Dijital dönüşüm. akıllı üretim altyapıları ve global büyüme stratejilerinin yönetimi.
 
 ---
 
 ## 👀 İlgi Alanlarım  
-IoT ve akıllı şehir uygulamaları, endüstriyel otomasyon sistemleri, akıllı sayaç ve altyapı teknolojileri.  
-Üretim verimliliği, teknoloji yatırımları ve yüksek ölçekli endüstriyel projeler.
+IoT ve akıllı şehir uygulamaları. endüstriyel otomasyon sistemleri. akıllı sayaç ve altyapı teknolojileri.  
+Üretim verimliliği. teknoloji yatırımları ve yüksek ölçekli endüstriyel projeler.
 
 ---
 
