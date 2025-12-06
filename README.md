@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://klepsan.com/upload/kurumsal/kurumsal.jpg" alt="Klepsan Factory" style="width:100%; border-radius:10px;">
-</p>
+![Klepsan Fabrikası](https://klepsan.com/upload/kurumsal/kurumsal.jpg)
 
 <p align="center">
-  <img src="https://klepsan.com/images/logo.svg" alt="Klepsan Logo" height="80">
+  <img src="https://klepsan.com/images/logo.svg" width="160" />
 </p>
 
 <h1 align="center">🌟 Emre Afşinoğlu</h1>
